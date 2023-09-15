@@ -36,16 +36,19 @@ The dataset comprises both categorical and numerical attributes, and thorough da
    - Insights: Identify genres that have consistently performed well and those with rising popularity.
      
 ![rating_vs_no_of_votes](images\top_5_genre_distribution.png)
+
 2. **Ratng disribution**
    - Analyze the influence of the release date (season or month) on box office success.
    - Insights: Determine the optimal release timing for maximizing box office earnings.
      
 ![rating_vs_no_of_votes](images\rating_dist.png)
+
 3. **Rating vs no. of votes**
    - Explore the relationship between movie runtime and average rating.
    - Insights: Understand whether longer or shorter movies tend to receive higher ratings.
      
 ![rating_vs_no_of_votes](images\rating_vs_no_of_votes.png)
+
 ## Conclusion
 
 ### Summary of Conclusions
