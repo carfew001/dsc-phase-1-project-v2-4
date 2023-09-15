@@ -14,10 +14,8 @@ Microsoft is entering the movie production industry with the aim of creating ori
 ### Key Business Questions
 
 1. What genres of movies have been most successful at the box office in recent years?
-2. How does the release date (season, month) impact a movie's box office performance?
-3. Is there a correlation between runtime and box office success?
-4. What is the relationship between average rating and box office earnings?
-5. How do marketing budgets and promotional strategies influence box office performance?
+2. What is the rlationship between ratings and average number of votes a movie received?
+3. What is the average rating for a movie?
 
 ## Data Understanding and Analysis
 
@@ -37,15 +35,14 @@ The dataset comprises both categorical and numerical attributes, and thorough da
      
 ![rating_vs_no_of_votes](images/top_5_genre_distribution.png)
 
-2. **Ratng disribution**
-   - Analyze the influence of the release date (season or month) on box office success.
-   - Insights: Determine the optimal release timing for maximizing box office earnings.
+2. **Rating disribution**
+   - Analyze the average rating for a film?
      
 ![rating_vs_no_of_votes](images/rating_dist.png)
 
 3. **Rating vs no. of votes**
-   - Explore the relationship between movie runtime and average rating.
-   - Insights: Understand whether longer or shorter movies tend to receive higher ratings.
+   - Explore the relationship between number of votes  and average rating.
+   - Insights: Understand whether there is a relationship between number of votes and the rating
      
 ![rating_vs_no_of_votes](images/rating_vs_no_of_votes.png)
 
@@ -53,11 +50,11 @@ The dataset comprises both categorical and numerical attributes, and thorough da
 
 ### Summary of Conclusions
 
-1. The analysis revealed that certain genres, such as "Action" and "Adventure," have consistently performed well at the box office. Microsoft should consider producing movies in these genres.
+1. The analysis revealed that certain genres, such as "Drama" and "Documentaries," have consistently performed well at the box office. Microsoft should consider producing movies in these genres.
 
-2. Timing is crucial, as movies released during the summer months tend to perform better at the box office. Microsoft should plan strategic release dates to maximize earnings.
+2. The relationship between number of votes and rating matters.Microsoft should consider film categories with higher ratings and number of votes.
 
-3. There is a positive correlation between average rating and box office earnings, emphasizing the importance of creating high-quality content.
+3. There is a positive  correlation between number of votes and average ratings
 
 ### Next Steps
 
