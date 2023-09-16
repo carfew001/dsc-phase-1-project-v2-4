@@ -14,14 +14,14 @@ Microsoft is entering the movie production industry with the aim of creating ori
 ### Key Business Questions
 
 1. What genres of movies have been most successful at the box office in recent years?
-2. What is the rlationship between ratings and average number of votes a movie received?
+2. What is the relationship between ratings and average number of votes a movie received?
 3. What is the average rating for a movie?
 
 ## Data Understanding and Analysis
 
 ### Source of Data
 
-This analysis utilizes a comprehensive dataset of movie information, encompassing details such as title, release year, genres, runtime, average rating, box office earnings, marketing budgets, and release dates. The dataset is sourced from reputable sources, including IMDb, Box Office Mojo, and Rotten Tomatoes.
+This analysis utilizes a comprehensive dataset of movie information, encompassing details such as title, release year, genres, runtime, and average rating. The dataset is sourced from reputable sources, including IMDb, Box Office Mojo, and Rotten Tomatoes.
 
 ### Description of Data
 
